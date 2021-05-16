@@ -31,27 +31,27 @@ body {
 
 
 img {
-  width: 120px;
-  height: 120px;
+  width: 7.5rem;
+  height: 7.5rem;
   border-radius: 50%;
   display: block;
-  margin-left: 20px;
+  margin-left: 1.25rem;
 }
 
 
 .profile-image {
-  margin-top: 20px;
+  margin-top: 1.25rem;
   padding-right: 0;
   position: relative;
   width: 50%;
-  padding: 25px;
+  padding: 1.56rem;
 }
 
 .name-headline {
-  margin-top: 40px;
+  margin-top: 2.5rem;
   position: relative;
   width: 50%;
-  padding: 25px;
+  padding: 1.56rem;
 }
 
 
@@ -79,7 +79,7 @@ li {
 
 .content {
   padding: 5% 10%;
-  margin-top: 10px;
+  margin-top: 0.62rem;
 }
 
 body {
@@ -89,8 +89,8 @@ body {
 
 .profile-card {
   background-color: hsla(0, 0%, 100%, .5);
-  border-radius: 3px;
-  box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
+  border-radius: 0.187rem;
+  box-shadow: hsla(0, 0%, 0%, .8) 0.187rem 0.187rem 5rem;
 }
 
 img {
@@ -100,9 +100,9 @@ img {
 }
 
 .content {
-  border-top: 1px solid hsla(0, 0%, 30%, .8);
+  border-top: 0.062rem solid hsla(0, 0%, 30%, .8);
   float: right;
-  margin-right: 25px;
+  margin-right: 1.562rem;
 }
 
 img:hover {
@@ -110,10 +110,10 @@ img:hover {
   opacity: 0.9;
   transition: all 0.5s ease-in-out;
   filter: grayscale(5%);
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin-left: 50px;
-  margin-right: 20px;
+  margin-top: 3.125rem;
+  margin-bottom: 3.125rem;
+  margin-left: 3.125rem;
+  margin-right: 1.25rem;
 }
 
 h1 {
@@ -137,32 +137,32 @@ h2 {
 h2:hover {
   transform: scale(1.2);
   transition: all 0.5s ease-in-out;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 0.625rem;
+  margin-bottom: 0.625rem;
 }
 
 .from {
-  font-size: 12px;
+  font-size: 0.75rem;
   color: grey;
 }
 
 .location {
-  font-size: 15px;
+  font-size: 0.937rem;
   color: #444444;
 }
 
 .location:hover {
   transform: scale(1.2);
   transition: all 0.5s ease-in-out;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
 }
 
 .about:hover {
   transform: scale(1.2);
   transition: all 0.5s ease-in-out;
-  margin-top: 20px;
-  margin-bottom: 40px;
+  margin-top: 1.25rem;
+  margin-bottom: 2.5rem;
 }
 
 .content {
@@ -172,7 +172,7 @@ h2:hover {
 }
 
 h3 {
-  font-size: 15px;
+  font-size: 0.937rem;
   color:#444444;
   margin-bottom: 5%;
 }
@@ -180,17 +180,17 @@ h3 {
 h3:hover {
   transform: scale(1.2);
   transition: all 0.5s ease-in-out;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
 }
 
 li:hover {
   transform: scale(1.2);
   transition: all 0.5s ease-in-out;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
 }
 
 a {
@@ -213,3 +213,4 @@ a {
   color: #000000;
   transition: all 0.3s ease-in-out;
 }
+
